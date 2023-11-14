@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\projectunrealengine\\topdawnrh\\topdawnrh\\intermediate\\build\\win64\\unrealeditor\\inc\\topdawnrh\\uht\\topdawnrh.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projectunrealengine\\topdawnrh\\topdawnrh\\intermediate\\build\\win64\\x64\\topdawnrheditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\projectunrealengine\\topdawnrh\\topdawnrh\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\topdawnrh\\definitions.topdawnrh.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
