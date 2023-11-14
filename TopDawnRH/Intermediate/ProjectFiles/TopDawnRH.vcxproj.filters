@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TopDawnRH.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TopDawnRH.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TopDawnRHEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TopDawnRH">
+      <UniqueIdentifier>{B9B105D0-1DC5-370E-9A5A-C6B6C9B9E102}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TopDawnRH\TopDawnRH.Build.cs">
+      <Filter>Source\TopDawnRH</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TopDawnRH\TopDawnRH.cpp">
+      <Filter>Source\TopDawnRH</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDawnRH\TopDawnRH.h">
+      <Filter>Source\TopDawnRH</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
