@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TopDawnRH",
+			"Path": "..\\Source\\TopDawnRH.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TopDawnRHEditor",
+			"Path": "..\\Source\\TopDawnRHEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

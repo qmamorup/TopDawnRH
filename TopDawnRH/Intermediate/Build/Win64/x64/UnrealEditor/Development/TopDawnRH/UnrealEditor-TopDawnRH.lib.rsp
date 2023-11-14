@@ -6,7 +6,10 @@
 /NAME:"UnrealEditor-TopDawnRH.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\ProjectUnrealEngine\TopDawnRH\Intermediate\Build\Win64\x64\TopDawnRHEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"C:\ProjectUnrealEngine\TopDawnRH\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDawnRH\TopDawnRH.cpp.obj"
-"C:\ProjectUnrealEngine\TopDawnRH\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDawnRH\Default.rc2.res"
-/OUT:"C:\ProjectUnrealEngine\TopDawnRH\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDawnRH\UnrealEditor-TopDawnRH.lib"
+"C:\ProjectUnrealEngine\TopDawnRH\TopDawnRH\Intermediate\Build\Win64\x64\TopDawnRHEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\ProjectUnrealEngine\TopDawnRH\TopDawnRH\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDawnRH\MyGameModeBase.gen.cpp.obj"
+"C:\ProjectUnrealEngine\TopDawnRH\TopDawnRH\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDawnRH\TopDawnRH.init.gen.cpp.obj"
+"C:\ProjectUnrealEngine\TopDawnRH\TopDawnRH\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDawnRH\TopDawnRH.cpp.obj"
+"C:\ProjectUnrealEngine\TopDawnRH\TopDawnRH\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDawnRH\MyGameModeBase.cpp.obj"
+"C:\ProjectUnrealEngine\TopDawnRH\TopDawnRH\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDawnRH\Default.rc2.res"
+/OUT:"C:\ProjectUnrealEngine\TopDawnRH\TopDawnRH\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDawnRH\UnrealEditor-TopDawnRH.lib"

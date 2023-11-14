@@ -11,6 +11,8 @@
     <None Include="..\..\Source\TopDawnRHEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +31,12 @@
     <Filter Include="Source\TopDawnRH">
       <UniqueIdentifier>{B9B105D0-1DC5-370E-9A5A-C6B6C9B9E102}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TopDawnRH\MyGameModeBase.cpp">
+      <Filter>Source\TopDawnRH</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDawnRH\MyGameModeBase.h">
+      <Filter>Source\TopDawnRH</Filter>
+    </ClInclude>
     <None Include="..\..\Source\TopDawnRH\TopDawnRH.Build.cs">
       <Filter>Source\TopDawnRH</Filter>
     </None>
