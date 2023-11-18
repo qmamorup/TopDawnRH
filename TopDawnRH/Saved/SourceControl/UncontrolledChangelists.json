@@ -56,6 +56,8 @@
 				"C:/ProjectUnrealEngine/TopDawnRH/TopDawnRH/Content/Game/Assets/Materials/M_Bullet.uasset",
 				"C:/ProjectUnrealEngine/TopDawnRH/TopDawnRH/Content/Game/Blueprint/Weapon/BP_Bullet.uasset",
 				"C:/ProjectUnrealEngine/TopDawnRH/TopDawnRH/Content/Game/Blueprint/Input/IA_Attack.uasset",
+				"C:/ProjectUnrealEngine/TopDawnRH/TopDawnRH/Content/Game/Blueprint/Input/IA_Aim.uasset",
+				"C:/ProjectUnrealEngine/TopDawnRH/TopDawnRH/Content/Game/Blueprint/Character/BPI_CharacterAnim.uasset",
 				"C:/ProjectUnrealEngine/TopDawnRH/TopDawnRH/Content/Game/Blueprint/BP_Character.uasset",
 				"C:/ProjectUnrealEngine/TopDawnRH/TopDawnRH/Content/Game/Assets/Ch35_1001_Diffuse.uasset",
 				"C:/ProjectUnrealEngine/TopDawnRH/TopDawnRH/Content/Game/Assets/Ch35_1001_Glossiness.uasset",
